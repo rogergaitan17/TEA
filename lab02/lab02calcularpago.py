@@ -1,0 +1,5 @@
+# Tendencias e Innovacion en Tecnologia Agricola (TEA)
+horastrabajadas = input("horas trabajadas?")
+valorPorHora = input ("valor por hora?")
+total = int(horastrabajadas) * int(valorPorHora)
+print (total) 
